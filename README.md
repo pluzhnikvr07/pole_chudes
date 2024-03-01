@@ -21,3 +21,18 @@ ENGLISH:
 * P.S. This game is a "bill of lading" application.
   
 * Thanks for the attention! Have a nice game!
+---------------------------------------------------------------------------------
+FRENCH:
+* Voici le programme du jeu "champ des merveilles".
+
+* L'idée même d'un tel programme comme “le champ des miracles” est venue à l'esprit de Vladislav Listyev et Anatoly Lyssenko, quand ils ont regardé l'émission de télévision américaine “Wheel of Fortune”. Et l'idée du nom a été tirée du conte de fées d'A. N. Tolstoï “la clé d'Or ou les aventures de Pinocchio”. La société de télévision WID a tenté d'acheter une licence pour le format “Wheel of Fortune” de la société de distribution King World Production, mais la coopération n'a pas fonctionné. Il a ensuite été décidé de fusionner les émissions étrangères en un seul grand programme indépendant qui n'avait plus besoin des détenteurs de droits américains. La première de “field of Wonders " a eu lieu le 25 octobre 1990.
+
+* Ce jeu est écrit en Python.
+
+* Pour lancer le jeu, vous devez copier le code et le coller dans un compilateur Python en ligne en cliquant sur le bouton pour lancer le programme. Vous verrez plusieurs Catégories dans lesquelles il y a 5 mots. Vous devrez entrer 2 chiffres: 1) le chiffre de la catégorie; 2) l'ordre du mot aléatoire. C'est ce mot Que vous allez deviner en entrant une lettre. Si la lettre que vous avez entrée est dans le mot, alors tous les endroits où il est ouvert et Vous aurez le choix: continuer à deviner le mot en entrant de nouvelles lettres, ou entrer le mot entier.
+
+* Lorsque vous devinez le mot, vous serez félicité et le jeu sera terminé. Pour jouer à nouveau, vous devez redémarrer le code. Si, en choisissant d'entrer un mot complètement, il s'avère incorrect, le jeu se termine également.
+
+* P.S. ce jeu est une application "konosolnym".
+
+* Merci de votre attention! Bon jeu!
